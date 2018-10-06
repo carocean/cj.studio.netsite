@@ -1,0 +1,20 @@
+2015年02月04日 23:03:33 错误 : java.net.ConnectException: Connection refused: /127.0.0.1:9098
+2015年02月04日 23:07:30 错误 : java.net.ConnectException: Connection refused: /127.0.0.1:9098
+2015年02月11日 00:04:11 信息 : webGraph 已初始化
+2015年02月11日 00:08:25 信息 : webGraph 已初始化
+2015年02月11日 00:33:37 信息 : webGraph 已初始化
+2015年02月11日 00:36:07 信息 : webGraph 已初始化
+2015年02月11日 00:37:34 信息 : webGraph 已初始化
+2015年02月11日 00:38:22 信息 : webGraph 已初始化
+2015年02月11日 00:56:19 信息 : webGraph 已初始化
+2015年02月13日 00:20:52 信息 : webGraph 已初始化
+2016年01月30日 07:05:16  错误: cj.studio.ecm.chip.netsite.GraphContainer - netsite中不存在ChipGraph:station.member#memberGraph
+2016年01月30日 07:05:17  信息: cj.studio.ecm.chip.netsite.ServerManager - 工作服务已启动。memberServer:10000
+2016年01月30日 07:05:17  信息: cj.studio.ecm.chip.netsite.ServerManager - 工作服务已启动。cjwebsite.com:8080
+2016年01月30日 07:05:17  错误: cj.studio.ecm.chip.netsite.GraphContainer - netsite中不存在ChipGraph:terminus#terminusMainGraph
+2016年01月30日 07:05:17  错误: cj.studio.ecm.chip.netsite.GraphContainer - netsite中不存在ChipGraph:terminus#terminusMainGraph
+2016年01月30日 07:05:17  信息: cj.studio.ecm.chip.netsite.ServerManager - 工作服务已启动。cjnetsite.com:8000
+2016年01月30日 07:05:17  错误: cj.studio.ecm.chip.netsite.GraphContainer - netsite中不存在ChipGraph:terminus#terminusMainGraph
+2016年01月30日 07:05:17  信息: cj.studio.ecm.chip.netsite.ServerManager - 工作服务已启动。downloadSwitch:switch2
+2016年01月30日 07:05:17  错误: cj.studio.ecm.chip.netsite.GraphContainer - netsite中不存在ChipGraph:terminus#terminusMainGraph
+2016年01月30日 07:05:17  信息: cj.studio.ecm.chip.netsite.ServerManager - 工作服务已启动。uploadSwitch:switch1
